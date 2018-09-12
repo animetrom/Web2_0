@@ -55,3 +55,32 @@ Todas as TAGS possuem o mesmo formato, ou seja, possuem um padrão de codificaç
 </html>
 ```
 
+#### Adicionando a chamada do arquivo CSS
+```html
+<head>
+	<title>Minha primeira página</title>
+
+	<link href="estilo.css" type="text/css" rel="stylesheet" />
+</head>
+```
+
+#### Explicando a estrutura básica
+```html
+<html> <!-- INDICA QUE O ARQUIVO É HTML -->
+
+<head> <!-- INDICA O INÍCIO DO CABEÇALHO DO DOCUMENTO -->
+	<title>Minha primeira página</title> <!-- AQUI VAI O TÍTULO DA PÁGINA -->
+</head> <!-- INDICA O FIM DO CABEÇALHO DO DOCUMENTO -->
+<body> <!-- INDICA O INÍCIO DO CONTEÚDO DO SITE -->
+
+<h1>Minha primeira página</h1>
+<p>Aqui vai um texto qualquer...</p>
+
+</body> <!-- INDICA FIM DO CONTEÚDO DO SITE -->
+</html> <!-- INDICA O FIM DO DOCUMENTO -->
+```
+
+
+
+
+
