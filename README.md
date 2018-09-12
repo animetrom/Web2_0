@@ -126,8 +126,8 @@ bootstrap/
     └── glyphicons-halflings-regular.woff2
 ``` 
 ### Informações importantes
-##### NOTA - Eu costumo trabalhar com o CSS <strong>minificado</strong> do CSS, no caso, bootstrap.min.css
-##### NOTA 02 - Eu utilizo uma estrutura de pasta um pouco diferente, dentro da pasta do meu projeto eu crio uma pasta chamada assets e dentro dela jogo todos os arquivos do Bootstrap, como você pode ver abaixo:
+##### <strong>NOTA</strong> - Eu costumo trabalhar com o CSS <strong>minificado</strong> do CSS, no caso, bootstrap.min.css
+##### <strong>NOTA 02</strong> - Eu utilizo uma estrutura de pasta um pouco diferente, dentro da pasta do meu projeto eu crio uma pasta chamada assets e dentro dela jogo todos os arquivos do Bootstrap, como você pode ver abaixo:
 
 ```
 assets/
