@@ -25,3 +25,38 @@ Em vez de muitos comandos para mostrar HTML (como acontece com C ou Perl), as p�
 
 #### O que é Bootstrap?
 Se você é um desenvolvedor de páginas web, sabe o quão árduo era começar um site do zero toda vez que se pegava um novo projeto para fazer. Era (no passado)! Isto, porque está disponível, desde 2011, o Bootstrap. Trata-se de um framework front-end que veio para facilitar e agilizar o trabalho, oferecendo padrões para HTML, JavaScript e CSS.
+
+# Primeiros passos
+
+## HTML
+
+### Tags 
+TAGS são rótulos usados para informar ao navegador como  deve ser apresentado o site. Ou seja, quando começo a escrever HTML  estou escrevendo tags que serão interpretadas pelo navegador, produzindo assim o visual do seu site.
+
+### A sintaxe das Tags
+Todas as TAGS possuem o mesmo formato, ou seja, possuem um padrão de codificação que deve ser seguido pelos desenvolvedores web.
+
+As TAGS começam com um sinal de “<” e terminam com um sinal de “>”.
+
+A principal diferença entre elas é que a <strong>tag de fechamento precisa de uma barra para finalizar a marcação.</strong>
+```
+	<body> -> Tag de abertura, inicia a marcação do código
+	</body> -> Tag de fechamento, finaliza com uma barra a marcação do código
+```
+
+### Estrutura Básica de uma página
+```html
+<html>
+
+<head>
+	<title>Minha primeira página</title>
+</head>
+<body>
+
+<h1>Minha primeira página</h1>
+<p>Aqui vai um texto qualquer...</p>
+
+</body>
+</html>
+```
+
