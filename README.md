@@ -80,6 +80,21 @@ Todas as TAGS possuem o mesmo formato, ou seja, possuem um padrão de codificaç
 </html> <!-- INDICA O FIM DO DOCUMENTO -->
 ```
 
+# Primeiros passos com o CSS
+O CSS é um complemento para o HTMl, com ele conseguimos dar um visual único para o nosso site.
+
+
+# Primeiros passos com o JavaScript
+
+
+
+# Primeiros passos com o Bootstrap
+
+
+
+# Primeiros passos com o PHP
+
+
 
 
 
