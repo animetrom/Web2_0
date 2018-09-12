@@ -103,11 +103,53 @@ O CSS é um complemento para o HTMl, com ele conseguimos dar um visual único pa
 # Primeiros passos com o Bootstrap
 
 
+#### Estrutura básica das pastas do Bootstrap
+```
+bootstrap/
+├── css/
+│   ├── bootstrap.css
+│   ├── bootstrap.css.map
+│   ├── bootstrap.min.css
+│   ├── bootstrap.min.css.map
+│   ├── bootstrap-theme.css
+│   ├── bootstrap-theme.css.map
+│   ├── bootstrap-theme.min.css
+│   └── bootstrap-theme.min.css.map
+├── js/
+│   ├── bootstrap.js
+│   └── bootstrap.min.js
+└── fonts/
+    ├── glyphicons-halflings-regular.eot
+    ├── glyphicons-halflings-regular.svg
+    ├── glyphicons-halflings-regular.ttf
+    ├── glyphicons-halflings-regular.woff
+    └── glyphicons-halflings-regular.woff2
+``` 
+### Informações importantes
+##### NOTA - Eu costumo trabalhar com o CSS <strong>minificado</strong> do CSS, no caso, bootstrap.min.css
+##### NOTA 02 - Eu utilizo uma estrutura de pasta um pouco diferente, dentro da pasta do meu projeto eu crio uma pasta chamada assets e dentro dela jogo todos os arquivos do Bootstrap, como você pode ver abaixo:
+
+```
+assets/
+	├── css/
+	│   ├── bootstrap.min.css
+	├── js/
+	│   ├── bootstrap.js
+	│   └── bootstrap.min.js
+	└── fonts/
+	    ├── glyphicons-halflings-regular.eot
+	    ├── glyphicons-halflings-regular.svg
+	    ├── glyphicons-halflings-regular.ttf
+	    ├── glyphicons-halflings-regular.woff
+	    └── glyphicons-halflings-regular.woff2
+```
 
 # Primeiros passos com o PHP
 
+#### O que vamos precisar para trabalhar com o PHP
 
-
+* Xampp/Mampp/Wampp
+* Sublime Text ou Bloco de Notas
 
 
 
