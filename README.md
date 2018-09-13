@@ -176,15 +176,15 @@ assets/
 ## EXTRA
 
 #### Packages para Sublime
-* [AdvancedNewFile](https://packagecontrol.io/packages/AdvancedNewFile "Clique para acessar") - Como o próprio nome já diz, esse plugin possibilita a criação de novos arquivos e pastas no Sublime. 
-* [Alignment](https://packagecontrol.io/packages/Alignment "Clique para acessar") - O plugin de alinhamento ajuda a alinhar facilmente várias seleções ou seleções de várias linhas. 
+* [AdvancedNewFile](https://packagecontrol.io/packages/AdvancedNewFile "Clique para acessar") - como o próprio nome já diz, esse plugin possibilita a criação de novos arquivos e pastas no Sublime. 
+* [Alignment](https://packagecontrol.io/packages/Alignment "Clique para acessar") - ajuda a alinhar facilmente várias seleções ou seleções de várias linhas. 
 * [A File Icon](https://packagecontrol.io/packages/A%20File%20Icon "Clique para acessar") - adiciona ao Sublime um pack de ícones que vai te ajudar a identificar melhor os seus arquivos.
-* [AutoFileName](https://packagecontrol.io/packages/AutoFileName "Clique para acessar") - esse plugin é um dos principais que temos hoje, ele ajuda no preenchimento dos nomes dos arquivos dentro do nosso código.
+* [AutoFileName](https://packagecontrol.io/packages/AutoFileName "Clique para acessar") - é um dos principais que temos hoje, ele ajuda no preenchimento dos nomes dos arquivos dentro do nosso código.
 * [Bracket​Highlighter](https://packagecontrol.io/packages/BracketHighlighter "Clique para acessar") - conheci esse plugin faz pouco tempo, mas já o adotei no meu dia-a-dia. Quando o cursor está entre aspas, chaves, parênteses, marca o início e o fim desta parte.
-* [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter "Clique para acessar") - Ele sublinha códigos de cores hexadecimais (como #FFFFFF, rgb (255,255,255), vermelho, etc.) com sua cor real. Quando você clica naquele código, ele é preenchido com cor.
-* [Emmet](https://packagecontrol.io/packages/Emmet "Clique para acessar") - Package que auxilia no prrenchimento de códigos HTML.
+* [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter "Clique para acessar") - quando você clica no código de uma cor, ele é preenchido com cor correspondente.
+* [Emmet](https://packagecontrol.io/packages/Emmet "Clique para acessar") - package que auxilia no prrenchimento de códigos HTML.
 * [File​Header](https://packagecontrol.io/packages/FileHeader "Clique para acessar") - te ajuda a criar o código inicial, assim que você cria um novo documento.
-* [GitGutter](https://packagecontrol.io/packages/GitGutter "Clique para acessar") - Este plugin fornece ao seu editor um status de git ao vivo em seu projeto. Pode mostrar três estados: 1. Alterando / editando linhas com um quadrado, 2. Adicionando linhas com uma cruz verde, 3. Removendo linhas com uma seta vermelha.
+* [GitGutter](https://packagecontrol.io/packages/GitGutter "Clique para acessar") - fornece ao seu editor um status de git ao vivo em seu projeto. Pode mostrar três estados: 1. Alterando / editando linhas com um quadrado, 2. Adicionando linhas com uma cruz verde, 3. Removendo linhas com uma seta vermelha.
 * [GotoDocumentation](https://packagecontrol.io/packages/GotoDocumentation "Clique para acessar") - plugin que te joga direto para a documentação do código que estiver selecionado.
 * [Java​Script Enhancements](https://packagecontrol.io/packages/JavaScript%20Enhancements "Clique para acessar") -  plugin que auxilia no desenvolvimento JavaScript.
 * [LiveReload](https://packagecontrol.io/packages/LiveReload "Clique para acessar") - Reload automático das páginas
