@@ -94,8 +94,6 @@ O CSS é um complemento para o HTMl, com ele conseguimos dar um visual único pa
 
 ```
 
-
-
 # Primeiros passos com o JavaScript
 
 
@@ -131,17 +129,17 @@ bootstrap/
 
 ```
 assets/
-	├── css/
-	│   ├── bootstrap.min.css
-	├── js/
-	│   ├── bootstrap.js
-	│   └── bootstrap.min.js
-	└── fonts/
-	    ├── glyphicons-halflings-regular.eot
-	    ├── glyphicons-halflings-regular.svg
-	    ├── glyphicons-halflings-regular.ttf
-	    ├── glyphicons-halflings-regular.woff
-	    └── glyphicons-halflings-regular.woff2
+├── css/
+│	└── bootstrap.min.css
+├── js/
+│	├── bootstrap.js
+│	└── bootstrap.min.js
+└── fonts/
+    ├── glyphicons-halflings-regular.eot
+    ├── glyphicons-halflings-regular.svg
+    ├── glyphicons-halflings-regular.ttf
+    ├── glyphicons-halflings-regular.woff
+    └── glyphicons-halflings-regular.woff2
 ```
 
 # Primeiros passos com o PHP
