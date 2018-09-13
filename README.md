@@ -124,7 +124,7 @@ bootstrap/
     └── glyphicons-halflings-regular.woff2
 ``` 
 ### Informações importantes
-##### <strong>NOTA</strong> - Eu costumo trabalhar com o CSS <strong>minificado</strong> do CSS, no caso, bootstrap.min.css
+##### <strong>NOTA</strong> - Eu costumo trabalhar com a versão <strong>minificada</strong> do CSS, no caso, bootstrap.min.css
 ##### <strong>NOTA 02</strong> - Eu utilizo uma estrutura de pasta um pouco diferente, dentro da pasta do meu projeto eu crio uma pasta chamada assets e dentro dela jogo todos os arquivos do Bootstrap, como você pode ver abaixo:
 
 ```
@@ -148,6 +148,50 @@ assets/
 
 * Xampp/Mampp/Wampp
 * Sublime Text ou Bloco de Notas
+
+
+
+
+
+
+
+
+
+
+
+
+# Ferramentas para Baixar
+
+#### IDEs
+* [Sublime Text 3](https://www.sublimetext.com/ "Clique aqui para baixar o Sublime")
+* [Visual Studio](https://blog.da2k.com.br "Clique aqui para baixar o Visual Studio Code!")
+
+#### Complementos 
+* [NodeJS](https://nodejs.org/ "Clique aqui para acessar o NodeJS")
+* [Package Control(Plugins para o Sublime)](https://nodejs.org/ "Clique aqui para acessar o NodeJS")
+
+#### Links Úteis
+* [Google Fonts](https://fonts.google.com/ "Clique aqui para acessar o Google Fonts")
+
+## EXTRA
+
+#### Packages para Sublime
+* [Emmet](https://packagecontrol.io/packages/Emmet "Clique para acessar") - Package que auxilia no 
+* [AdvancedNewFile](https://packagecontrol.io/packages/AdvancedNewFile "Clique para acessar") - Como pode ser entendido pelo nome, AdvancedNewFile possibilita a criação de novos arquivos e pastas no Sublime Text. Sem necessidade de Windows ou Mac Navigator, você pode criar arquivos ou pastas em qualquer nível da pasta do seu projeto. Além de sua opção de caminho absoluto e relativo, você também pode definir a extensão padrão para arquivos recém-criados.
+* [AutoFileName](https://packagecontrol.io/packages/AutoFileName "Clique para acessar") - AutoFileName é um dos principais pacotes que eu uso principalmente. Completa os nomes dos arquivos automaticamente. Geralmente, ele preenche automaticamente os nomes dos arquivos quando o cursor está entre aspas, mas alterei a configuração para que o preenchimento automático seja acionado apenas com uma combinação de teclas para evitar nomes de arquivos e variáveis ​​misturados na lista pop-up de preenchimento automático.
+* [Bracket​Highlighter](https://packagecontrol.io/packages/BracketHighlighter "Clique para acessar") - É um dos meus pacotes favoritos do Sublime Text. Ele simplesmente destaca seus suportes. Quando o cursor está entre aspas, chaves, parênteses, marca o início e o fim desta parte. Ao escrever uma série matemática complicada ou funções aninhadas, este pacote ajuda você a ver em qual bloco o cursor está. Também abrange funções avançadas de seleção.
+* [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements "Clique para acessar") - Os comandos da Barra Lateral do Sublime Text são bastante limitados e apenas lidam com ações simples. O pacote SideBarEnhancements é um dos pacotes que devem ser instalados no Sublime Text. Ele ganha um grande número de aprimoramentos no menu de contexto da Barra Lateral. Você pode definir o comando "abrir com" para extensões específicas, como abrir arquivos de imagem com o Photoshop ou abrir seus arquivos html com diferentes navegadores e atribuir uma tecla de acesso específica a esses comandos. Suporta copiar, cortar ou mover entre arquivos e pastas sem tocar no explorador de arquivos. Também torna possível copiar o caminho do arquivo, copiar o nome do arquivo, pesquisar em uma pasta específica ou mostrar o arquivo selecionado no Windows Explorer.
+* [SublimeCodeIntel](https://packagecontrol.io/packages/SublimeCodeIntel "Clique para acessar") - O pacote SublimeCodeIntel transforma seu editor de texto em IDE com todos os recursos. Você definitivamente o instalou para completar código ampliado e avançado no Sublime Text. Com uma nova versão do SublimeCodeIntel, você notará que a lógica de conclusão de código alcançou um nível mais alto de comparação com a versão anterior.
+Este pacote possibilita o autocompletar cada definição de palavra no seu projeto. Ele suporta JavaScript, SCSS, Python, HTML, Ruby, Python3, XML, Sass, HTML5, Perl, CSS, Twig, Less, Node.js, TemplateToolkit e PHP pré-definidos no arquivo de configuração.
+* [Alignment]() - O plugin de alinhamento ajuda a alinhar facilmente várias seleções ou seleções de várias linhas. O que isso significa é que você pode alinhar várias seleções ou linhas por meio de um delimitador como =. Basta digitar ctrl + alt + a no Windows ou cmd + ctrl + a em um Mac para alinhar sua seleção. Para alinhar: siga este tutorial para configurar os delimitadores personalizados.
+* [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter "Clique para acessar") - Ele sublinha códigos de cores hexadecimais (como #FFFFFF, rgb (255,255,255), vermelho, etc.) com sua cor real. Quando você clica naquele código, ele é preenchido com cor.
+* [GitGutter](https://packagecontrol.io/packages/GitGutter "Clique para acessar") - Este plugin fornece ao seu editor um status de git ao vivo em seu projeto. Pode mostrar três estados: 1. Alterando / editando linhas com um quadrado, 2. Adicionando linhas com uma cruz verde, 3. Removendo linhas com uma seta vermelha
+* [A File Icon](https://packagecontrol.io/packages/A%20File%20Icon "Clique para acessar") - 
+* [LiveReload](https://packagecontrol.io/packages/LiveReload "Clique para acessar") - Reload automático das páginas
+* [MaybsQuit](https://packagecontrol.io/packages/Maybs%20Quit "Clique para acessar") - O Maybs Quit permite um painel rápido para confirmar a saída do Sublime Text. Ambos cmd / ctrl + w e cmd / ctrl + q estão muito próximos um do outro no teclado e podem levar a erros. Evite deixar o texto subliminar sem querer quando estiver apenas a tentar fechar um ficheiro, utilizando o Maybs Quit!
+
+
+##### Packages para o Visual Studio Code
 
 
 
