@@ -190,8 +190,3 @@ assets/
 * [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements "Clique para acessar") - adiciona um grande número de aprimoramentos no menu de contexto da Barra Lateral.
 * [SublimeCodeIntel](https://packagecontrol.io/packages/SublimeCodeIntel "Clique para acessar") - transforma seu editor de texto em IDE com todos os recursos.
 * [Word​Press](https://packagecontrol.io/packages/WordPress "Clique para acessar") - plugin que vai te ajudar a programar para Wordpress.
-
-##### Packages para o Visual Studio Code
-
-
-
