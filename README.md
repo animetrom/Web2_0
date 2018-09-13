@@ -183,11 +183,17 @@ assets/
 * [Bracket​Highlighter](https://packagecontrol.io/packages/BracketHighlighter "Clique para acessar") - conheci esse plugin faz pouco tempo, mas já o adotei no meu dia-a-dia. Quando o cursor está entre aspas, chaves, parênteses, marca o início e o fim desta parte.
 * [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter "Clique para acessar") - Ele sublinha códigos de cores hexadecimais (como #FFFFFF, rgb (255,255,255), vermelho, etc.) com sua cor real. Quando você clica naquele código, ele é preenchido com cor.
 * [Emmet](https://packagecontrol.io/packages/Emmet "Clique para acessar") - Package que auxilia no prrenchimento de códigos HTML.
-* [GitGutter](https://packagecontrol.io/packages/GitGutter "Clique para acessar") - Este plugin fornece ao seu editor um status de git ao vivo em seu projeto. Pode mostrar três estados: 1. Alterando / editando linhas com um quadrado, 2. Adicionando linhas com uma cruz verde, 3. Removendo linhas com uma seta vermelha
+* [File​Header](https://packagecontrol.io/packages/FileHeader "Clique para acessar") - te ajuda a criar o código inicial, assim que você cria um novo documento.
+* [GitGutter](https://packagecontrol.io/packages/GitGutter "Clique para acessar") - Este plugin fornece ao seu editor um status de git ao vivo em seu projeto. Pode mostrar três estados: 1. Alterando / editando linhas com um quadrado, 2. Adicionando linhas com uma cruz verde, 3. Removendo linhas com uma seta vermelha.
+* [GotoDocumentation](https://packagecontrol.io/packages/GotoDocumentation "Clique para acessar") - plugin que te joga direto para a documentação do código que estiver selecionado.
 * [Java​Script Enhancements](https://packagecontrol.io/packages/JavaScript%20Enhancements "Clique para acessar") -  plugin que auxilia no desenvolvimento JavaScript.
 * [LiveReload](https://packagecontrol.io/packages/LiveReload "Clique para acessar") - Reload automático das páginas
 * [MaybsQuit](https://packagecontrol.io/packages/Maybs%20Quit "Clique para acessar") - O Maybs Quit permite um painel rápido para confirmar a saída do Sublime.
+* [Minifier](https://packagecontrol.io/packages/Minifier "Clique para acessar")- Minifier te ajuda a minificar os seus arquivos JavaScript e CSS.
+* [Open Folder](https://packagecontrol.io/packages/Open%20Folder "Clique para acessar") - abre a pasta do projeto.
 * [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements "Clique para acessar") - adiciona um grande número de aprimoramentos no menu de contexto da Barra Lateral.
 * [SublimeCodeIntel](https://packagecontrol.io/packages/SublimeCodeIntel "Clique para acessar") - transforma seu editor de texto em IDE com todos os recursos.
+* [SlublimeLinter-ESLint](https://packagecontrol.io/packages/SublimeLinter-eslint "Clique para acessar") - auxilia no desenvolvimento com JavaScript.
 * [Theme itg.flat](https://packagecontrol.io/packages/Theme%20-%20itg.flat "Clique para acessar") - um tema muito bom e leve para modificar a interface do Sublime.
+* [ToDoReview](https://packagecontrol.io/packages/TodoReview "Clique para acessar") - plugin utilizado para criar listas/revisões do seu projeto.
 * [Word​Press](https://packagecontrol.io/packages/WordPress "Clique para acessar") - plugin que vai te ajudar a programar para Wordpress.
